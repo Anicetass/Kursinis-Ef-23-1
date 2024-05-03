@@ -1,0 +1,4 @@
+This file allows to change the game board's row and column count as well as the size of the window (it depends on how many rows/cols you have):
+ROWS=0
+COLS=0
+UNIT_SIZE=0
