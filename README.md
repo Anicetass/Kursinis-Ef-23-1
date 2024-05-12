@@ -14,7 +14,7 @@ My program is a functional implementation of "Connect Four"
 
 ### Running the Program
 
-To run the program, you need to have Python installed on your system along with the Pygame library. Simply execute the Python script `connectFour.py` in your Python environment.
+To run the program, you need to have Python installed on your system along with the Pygame and NumPy libraries. Simply execute the Python script `connectFour.py` in your Python environment.
 
 ### Using the Program
 
